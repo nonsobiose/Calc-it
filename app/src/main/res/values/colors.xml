@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ef6c3e</color>
+    <color name="colorPrimaryDark">#ef6c3e</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- App color -->
+    <color name="background_color">#ef8762</color>
+    <color name="white">#ffffff</color>
+    <color name="buttons_background">#f7f5f4</color>
+    <color name="arith_button">#ead0c2</color>
+    <color name="equal_button">#410a75</color>
+</resources>

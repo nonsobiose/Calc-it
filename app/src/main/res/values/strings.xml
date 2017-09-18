@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calc-it</string>
+
+    <string name="point_symbol">.</string>
+    <string name="max_input_length">Max Length 21 exceeded</string>
+    <string name="math_error">Mathematical Error</string>
+</resources>
